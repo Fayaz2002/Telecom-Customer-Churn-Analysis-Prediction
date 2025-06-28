@@ -68,4 +68,18 @@ Analyze telecom customer churn behavior, build a predictive model to forecast ch
 * Delivered actionable dashboards to support business decisions
 
 
+# Output 
+
+## Training and Testing Data Preparation for ML using SQL
+![views](https://github.com/user-attachments/assets/671ae858-d19f-4e31-9c57-fba597e1ed39)
+
+## Random Forest Model 
+![RF](https://github.com/user-attachments/assets/ce6cf8ef-dd1b-432c-8c74-3428e01051df)
+
+## Telecom Data Dashboard using Power BI
+![Churn Visual](https://github.com/user-attachments/assets/fe36ff6a-17ef-4e33-93ee-f5eb5b7adbaa)
+
+## Prediction Visualization Dashboard using Power BI
+![Prediction Visualization](https://github.com/user-attachments/assets/9056318a-749f-4943-ab4b-d49bf667e6f4)
+
 
